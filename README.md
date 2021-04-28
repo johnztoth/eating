@@ -13,3 +13,5 @@ Each agent now determines the size of the environment and makes sure it stays wi
 The program plots the final agent positions after all the iterations and the final environment data.
 
 The main program is in eating.py. The module containing the Agent class is in agentframework.py
+
+To run type> python eating.py
